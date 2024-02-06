@@ -1,0 +1,15 @@
+{
+    "name": "sivam/protobuf-main",
+    "autoload": {
+        "psr-4": {
+            "Sivam\\ProtobufMain\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "siva matta",
+            "email": "sivamech301@gmail.com"
+        }
+    ],
+    "require": {}
+}
